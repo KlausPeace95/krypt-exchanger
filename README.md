@@ -1,7 +1,4 @@
-# crypto-exchange [![npm](https://img.shields.io/npm/v/crypto-exchange.svg)](https://www.npmjs.com/package/crypto-exchange)
-
-Pulls together list of crypto exchanges to interact with their API's in a uniform fashion.
-
+# crypto-exchange
 The goal of this project is to be able to interact with a number of different cryptocurrency exchange markets with one standardized package.
 
 ## Available Exchanges
@@ -324,6 +321,6 @@ Return or create a new address to which funds can be deposited.
 
 This project is a work in progress as I'm adding more exchanges and functions. Help support this project with a :coffee: or PR!
 
-BTC: `161kbECzKtDKfLXnC5Lwk2hgsQLtg7BNXd`
+BTC: `bc1qshxe8xsl0krvge0jpnwgraxu78a3ja5jy0qmdg`
 
-ETH: `0xae89158b43000e07e76b205b870a1e34653d2668`
+ETH: `0x99f03053fB60418c6c4992ca66CfaF0A9FA1077A`
